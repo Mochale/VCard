@@ -1,7 +1,3 @@
-# Result 📝
-
-You can see this project result on : [Noorani-mm.ir](https://noorani-mm.ir)
-
 ## How to install ⚙️
 
 **Clone project**
