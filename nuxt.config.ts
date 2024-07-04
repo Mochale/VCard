@@ -14,6 +14,10 @@ export default defineNuxtConfig({
     },
     modules: ['@nuxt/image', "nuxt-schema-org"],
     css: ['~/assets/css/main.css'],
+    site: {
+        url: process.env.WEBSITE,
+        name: process.env.APP_NAME
+    },
     app: {
         head: {
             htmlAttrs: {
