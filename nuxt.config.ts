@@ -42,6 +42,10 @@ export default defineNuxtConfig({
                 {
                     name: "theme-color",
                     content: "#ffa600"
+                },
+                {
+                    name: 'google-site-verification',
+                    content: process.env.GOOGLE_SITE_VERIFICATION
                 }
             ]
         },
